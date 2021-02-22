@@ -1,5 +1,5 @@
 ---
-- hosts: web
+- hosts: localhost
   vars:
    container_image: ramyah/dockerfile:LATEST
    container_name: hello8888
